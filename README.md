@@ -1,4 +1,4 @@
-Java Developer
+Old Java Developer / New Business Analyst
 ---------------------
 I'm Sümeyye, a Full Stack developer from Turkey.
 * I'm based in Turkey
