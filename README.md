@@ -1,6 +1,6 @@
 Old Java Developer / New Business Analyst
 ---------------------
-I'm Sümeyye, a Full Stack developer from Turkey.
+I'm Sümeyye
 * I'm based in Turkey
 * You can contact me at [sumdemir2001@gmail.com](mailto:sumdemir2001@gmail.com)
 <h3 align="left">Languages and Tools:</h3>
